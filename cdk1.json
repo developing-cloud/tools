@@ -1,0 +1,3 @@
+{
+  "app": "mvn exec:java -Dexec.mainClass=cloud.developing.iac.cicd.CicdApp"
+}
